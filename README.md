@@ -1,5 +1,7 @@
 # sound_switching
 
+Batch file needs editing with the correct names for current system
+
 ### In addition: 
 ( https://www.autohotkey.com/docs/FAQ.htm#Startup )
 1. Find the script file, select it, and press Control+C.
